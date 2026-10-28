@@ -167,6 +167,15 @@ footer a{
     background: linear-gradient(135deg, #1e1e1e, #333);
 }
 
+.dark nav a {
+    color: white;
+}
+
+.dark nav a:hover {
+    background-color: #333;
+    color: #64b5f6;
+}
+
 .dark .rasa, .dark #quiz {
     background: #2b2b2b;
     color: white;
