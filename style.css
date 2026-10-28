@@ -16,6 +16,10 @@ header h1 {
     margin-bottom: 15px;
 }
 
+p {
+    text-align: justify;
+}
+
 nav ul{
     list-style: none;
 }
